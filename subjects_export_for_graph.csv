@@ -1,0 +1,176 @@
+id,name,code
+155,"Expressive Arts Middle Division",EAM
+156,"Expressive Arts Upper Division",EAU
+157,"Health And Family Life Lower Division",HAF
+158,"Health And Family Life Middle Division",HAF
+159,"Health And Family Life Upper Division",HAF
+160,"Language Arts Content Standards and Learning Outcomes",LAC
+161,"Lower Division Language Arts Curriculum",LDL
+162,"Math Lower Division",MLD
+163,"Physical Education Lower Division",PEL
+164,"Science Lower Division",SLD
+165,"Science Middle Division",SMD
+166,"Social Studies Lower Division",SSL
+167,"Social Studies Middle Division",SSM
+168,"Social Studies Upper Division",SSU
+169,"Spanish Lower Division",SLD
+170,"Spanish Middle Division",SMD
+171,"Spanish Upper Division",SUD
+172,"Technology Upper Division StdV",TUD
+173,"Upper Division Language Arts Curriculum",UDL
+174,"Math Middle Division",MMD
+175,Language,LLG
+176,"Math Upper Division",MUD
+177,"Integrated Science",ISCI
+178,Arts,ART
+179,"Community Living",COM
+180,Health,HTH
+181,"Physical Education Middle Division",PEMD
+182,"Environmental Studies",ENV
+183,"Social Science",SSC
+184,"Personal Development",PDD
+185,"Making a Living",MAL
+186,"Cultural Mathematics",CUM
+187,"Culture and Community",CAC
+188,Agriculture,AGR
+189,"CSEC Principles of Business",CSEC_Bus
+190,"Design Technology",DES
+191,English,ENG
+192,Accounting,ACC
+193,"Applied English",AEN
+194,"Applied Natural Resource Management",ANR
+195,"Applied Science",ASC
+196,Biology,BIO
+197,Chemistry,CHM
+198,"Computer Studies",CMP
+199,"Design and Technology",DAT
+200,Economics,ECN
+201,"General Mathematics",GMA
+202,Geography,GEO
+203,Geology,GLG
+204,History,HIS
+205,"Information Communication Technology",ICT
+206,"Language and Literature",LAL
+207,"Legal Studies",LST
+208,Music,MUS
+209,Physics,PHY
+210,"Theatre Arts",THA
+211,Tourism,TOU
+212,"Visual Arts",VIS
+213,"Science Upper Division",SCMC
+214,"Social Studies",SSMC
+215,"Combined Mathematics",MMC
+216,"Combined English",EMC
+217,"Language Arts Lower Division",LALD
+218,"Language Arts Middle Division",LAMD
+219,"Language Arts Upper Division",LAUD
+220,"Expressive Arts Lower Division",EALD
+221,"Physical Education Upper Division",PEUD
+222,"Information Technology/Computer Studies",ITCS
+223,"Health And Family Life",HFL
+224,"Info Tech/Comp Stud Upper Division",ITUD
+225,English/Literature,ELTE
+226,"Expressive Arts",EA
+227,Vocational/Technical,VTL
+228,"Personal/Social/Emotional Development",PSED
+229,"Creative Development",CDP
+230,"Physical Development",PDM
+231,Communication,CMN
+232,Language,LNG
+233,Literacy,LIT
+234,"Knowledge and Understanding of the World",KUW
+235,"Language Arts",LA
+236,"Physical Education",PE
+237,"Expressive Arts",EA
+238,"Life Skills",LS
+239,"Creative Development",CD
+240,"Physical Development",PD
+241,"Communication, Language and Literacy",CLL
+242,"Personal/Social/Emotional Development",PSED
+243,"Knowledge and Understanding of the World",KUW
+244,English/Literature,EL
+245,Mathematics,MA
+246,HFLE,HFLE
+247,Spanish,SP
+248,"Language Arts",LA
+249,Mathematics,MA
+250,"Social Studies",SS
+251,Science,SCI
+252,BJAT,BJAT
+253,PSE,PSE
+254,French,FRJM
+255,"CSEC Office Administration",OA_CXC
+256,"CSEC Food and Nutrition",CSEC_Food
+257,"CAPE Biology Unit 1",CAPE_BIO_U
+258,"CAPE Biology Unit 2",CAPE_BIO_U
+259,"CAPE Caribbean Studies",CAPE_CARIB
+260,"CAPE Communication Studies",CAPE_COMM_
+261,"CAPE Chemistry Unit 1",CAPE_CHEM_
+262,"CAPE Chemistry Unit 2",CAPE_CHEM_
+263,"CAPE Pure Mathematics Unit 1",CAPE_MATH_
+264,"CAPE Pure Mathematics Unit 2",CAPE_MATH_
+265,"CAPE Physics Unit 1",CAPE_PHYS_
+266,"CAPE Physics Unit 2",CAPE_PHYS_
+267,"CAPE Sociology Unit 1",CAPE_Soci_
+268,"CAPE Sociology Unit 2",CAPE_SOCI_
+269,"CAPE Management of Business Unit 1",CAPE_MOD_U
+270,"CAPE Management of Business Unit 2",CAPE_MOB_U
+271,"CSEC Electronic Documentation Preparation and Management",CSEC_EDPM
+272,"CSEC English Literature","CSEC Engli"
+273,"CSEC Human and Social Biology (HSB)",CSEC_HSB
+274,"CSEC Biology",CSEC_Biolo
+275,"CSEC Principles of Accounting",CSEC_POA
+276,"CSEC Chemistry",CSEC_CHem
+277,"CSEC English Language",CSEC_EngA
+278,"CSEC French",CSEC_Frenc
+279,"CSEC Geography",CSEC_GEO
+280,"CSEC History",CSEC_Histo
+281,"CSEC Information Technology",CSEC_IT
+282,"CSEC Integrated Science",CSEC_INT_S
+283,"CSEC Mathematics",CSEC_Math
+284,"CSEC Physics",CSEC_Phys
+285,"CSEC Spanish",CSEC_Spani
+286,"CSEC Visual Arts",CSEC_VA
+287,"City &amp; Guilds Mathematics",CG_MATH
+288,"City &amp; Guilds English","City &amp;"
+289,"NSC Information Technology","NSC Inform"
+290,"NSC Mathematics","NSC Mathem"
+291,"NSC Language Arts","NSC Langua"
+292,"NSC Integrated Science","NSC Integr"
+293,"NSC Social Studies","NSC Social"
+294,"NSC Visual Arts","NSC Visual"
+295,"NSC Science","NSC Scienc"
+296,"NSC Biology","NSC Biolog"
+297,"NSC Chemistry","NSC Chemis"
+298,"NSC Physics","NSC Physic"
+299,"NSC Health &amp; Family Life Education","SC Health "
+300,"NSC Religious Education","NSC Religi"
+301,"NSC Physical Education","NSC Physic"
+302,"NSC Music","NSC Music"
+303,"NSC Drama","NSC Drama"
+304,"NSC Dance","NSC Dance"
+305,"NSC Family and Consumer Management","NSC Family"
+306,"NSC Industrial Techniques","NSC Indust"
+307,"NSC Business Basics","NSC Busine"
+308,"NSC French","NSC French"
+309,"NSC Spanish","NSC Spanis"
+310,"NSC Junior Achievement Company of Entrepreneurs (JACE)","NSC Junior"
+311,"CAPE French Test",C_F_Test
+312,Ashleigh,asdasd
+313,"G9 - PI - English Literature","G9 - PI - "
+314,"G9 - PI - NSC Agriculture",G9PIAGRI
+315,"G7 - PI - NSC Agriculture",G7PIAGRI
+316,"G8 - PI - NSC Agriculture",G8PIAGRI
+317,"G10 - CSEC Home Economics",G10HE
+318,"G11 - CSEC Home Economics",G11HE
+319,"G10 - CSEC Textiles, Clothing and Fashion",G10TCF
+320,"G11 - CSEC Textiles, Clothing and Fashion",G11TCF
+321,"G10 - City &amp; Guilds English Level 2",G1OCGEL2
+322,"G11 - City &amp; Guilds English Level 2",G11CGEL2
+323,"G10 - City &amp; Guilds Mathematics SII",G10CGML2
+324,"G11 - City &amp; Guilds Mathematics SII",G11CGML2
+325,"G10 - CSEC Mathematics SII",G10CSII
+326,"G11 - CSEC Mathematics SII",G11CSII
+328,"G11 - CSEC Mathematics SIII",G11CSIII
+329,"G10 - City &amp; Guilds Mathematics S3",G1OCGEL3
+330,"G11 - City &amp; Guilds Mathematics SIII",G11CGEL3
