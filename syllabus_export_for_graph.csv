@@ -1,98 +1,98 @@
-syllabus_id,syllabus_name,description,subject_id,grade_id
-5,"CSEC Mathematics - Grade 11","CSEC Mathematics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-6,"CSEC Biology","CSEC Biology syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-7,"CSEC Chemistry","CSEC Chemistry syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-8,"CSEC Electronic Documentation Preparation and Management","CSEC Electronic Documentation Preparation and Management syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-9,"CSEC English A","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-10,"CSEC English B","CSEC English B syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-11,"CSEC Food and Nutrition","CSEC Food and Nutrition syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-12,"CSEC Geography","CSEC Geography syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-13,"CSEC History","CSEC History syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-14,"CSEC Human and Social Biology (HSB)","CSEC Human and Social Biology (HSB) syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-15,"CSEC Information Technology","CSEC Information Technology syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-16,"CSEC Integrated Science","CSEC Integrated Science syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-17,"CSEC Office Administration","CSEC Office Administration syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-18,"CSEC Physics","CSEC Physics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-19,"CSEC Principles of Accounts","CSEC Principles of Accounts syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-20,"CSEC Principles of Business","CSEC Principles of Business syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-21,"CSEC Social Studies","CSEC Social Studies syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-22,"CSEC Spanish","CSEC Spanish syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-23,"CAPE Biology Unit 1","CAPE Biology Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-24,"CAPE Biology Unit 2","CAPE Biology Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-25,"CAPE Caribbean Studies","CAPE Caribbean Studies syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-26,"CAPE Chemistry Unit 1","CAPE Chemistry Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-27,"CAPE Chemistry Unit 2","CAPE Chemistry Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-28,"CAPE Communication Studies","CAPE Communication Studies syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-29,"CAPE Mathematics Unit 1","CAPE Mathematics Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-30,"CAPE Mathematics Unit 2","CAPE Mathematics Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-31,"CAPE Physics Unit 1","CAPE Physics Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-32,"CAPE Physics Unit 2","CAPE Physics Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-33,"CAPE Sociology Unit 1","CAPE Sociology Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-34,"CAPE Sociology Unit 2","CAPE Sociology Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-35,"CAPE Management of Business Unit 1","CAPE Management of Business Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
+id,name,description,subject_id,grade_id
+5,"CSEC Mathematics - Grade 11","CSEC Mathematics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",283,355
+6,"CSEC Biology","CSEC Biology syllabus based on the Caribbean Secondary Education Certificate (CSEC)",274,355
+7,"CSEC Chemistry","CSEC Chemistry syllabus based on the Caribbean Secondary Education Certificate (CSEC)",276,355
+8,"CSEC Electronic Documentation Preparation and Management","CSEC Electronic Documentation Preparation and Management syllabus based on the Caribbean Secondary Education Certificate (CSEC)",271,355
+9,"CSEC English A","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",277,355
+10,"CSEC English B","CSEC English B syllabus based on the Caribbean Secondary Education Certificate (CSEC)",272,355
+11,"CSEC Food and Nutrition","CSEC Food and Nutrition syllabus based on the Caribbean Secondary Education Certificate (CSEC)",256,354
+12,"CSEC Geography","CSEC Geography syllabus based on the Caribbean Secondary Education Certificate (CSEC)",279,355
+13,"CSEC History","CSEC History syllabus based on the Caribbean Secondary Education Certificate (CSEC)",280,355
+14,"CSEC Human and Social Biology (HSB)","CSEC Human and Social Biology (HSB) syllabus based on the Caribbean Secondary Education Certificate (CSEC)",273,355
+15,"CSEC Information Technology","CSEC Information Technology syllabus based on the Caribbean Secondary Education Certificate (CSEC)",281,355
+16,"CSEC Integrated Science","CSEC Integrated Science syllabus based on the Caribbean Secondary Education Certificate (CSEC)",282,355
+17,"CSEC Office Administration","CSEC Office Administration syllabus based on the Caribbean Secondary Education Certificate (CSEC)",255,355
+18,"CSEC Physics","CSEC Physics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",284,355
+19,"CSEC Principles of Accounts","CSEC Principles of Accounts syllabus based on the Caribbean Secondary Education Certificate (CSEC)",275,355
+20,"CSEC Principles of Business","CSEC Principles of Business syllabus based on the Caribbean Secondary Education Certificate (CSEC)",189,355
+21,"CSEC Social Studies","CSEC Social Studies syllabus based on the Caribbean Secondary Education Certificate (CSEC)",177,356
+22,"CSEC Spanish","CSEC Spanish syllabus based on the Caribbean Secondary Education Certificate (CSEC)",285,355
+23,"CAPE Biology Unit 1","CAPE Biology Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",257,364
+24,"CAPE Biology Unit 2","CAPE Biology Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",258,365
+25,"CAPE Caribbean Studies","CAPE Caribbean Studies syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",259,365
+26,"CAPE Chemistry Unit 1","CAPE Chemistry Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",261,364
+27,"CAPE Chemistry Unit 2","CAPE Chemistry Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",262,365
+28,"CAPE Communication Studies","CAPE Communication Studies syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",260,364
+29,"CAPE Mathematics Unit 1","CAPE Mathematics Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",263,364
+30,"CAPE Mathematics Unit 2","CAPE Mathematics Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",264,365
+31,"CAPE Physics Unit 1","CAPE Physics Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",265,364
+32,"CAPE Physics Unit 2","CAPE Physics Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",266,365
+33,"CAPE Sociology Unit 1","CAPE Sociology Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",267,364
+34,"CAPE Sociology Unit 2","CAPE Sociology Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",268,365
+35,"CAPE Management of Business Unit 1","CAPE Management of Business Unit 1 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",269,364
 36,"CAPE Management of Business Unit 2","CAPE Management of Business Unit 2 syllabus based on the Caribbean Advanced Proficiency Examination (CAPE)",270,365
-37,"CSEC French","CSEC French syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-38,"CSEC Visual Arts","CSEC Visual Arts syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-39,"NSC Mathematics","Mathematics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-40,"NSC Language Arts","Language Arts syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-41,"NSC Social Studies","Social Studies syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-42,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-43,"NSC Visual Arts","Visual Arts syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-44,"NSC Science","Science syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-45,"NSC Biology","Biology syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-46,"NSC Chemistry","Chemistry syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-47,"NSC Physics","Physics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-48,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-49,"NSC Religious Education","Religious Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-50,"NSC Physical Education","Physical Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-51,"NSC Music","Music syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-52,"NSC Drama","Drama syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-53,"NSC Dance","Dance syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-54,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-55,"NSC Business Basics","Business Basics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-56,"NSC Spanish","Spanish syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-57,"NSC French","French syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-58,"NSC Mathematics","Mathematics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-59,"NSC Language Arts","Language Arts syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-60,"NSC Social Studies","Social Studies syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-61,"NSC Information Technology","Information Technology syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-62,"NSC Visual Arts","Visual Arts syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-63,"NSC Science","Science syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-64,"NSC Biology","Biology syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-65,"NSC Chemistry","Chemistry syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-66,"NSC Physics","Physics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-67,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-68,"NSC Religious Education","Religious Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-69,"NSC Physical Education","Physical Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-70,"NSC Music","Music syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-71,"NSC Drama","Drama syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-72,"NSC Dance","Dance syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-73,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-74,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-75,"NSC Business Basics","Business Basics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-76,"NSC Spanish","Spanish syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-77,"NSC French","French syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-78,"NSC Mathematics","Mathematics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-79,"NSC Language Arts","Language Arts syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-80,"NSC Social Studies","Social Studies syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-81,"NSC Information Technology","Information Technology syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-82,"NSC Visual Arts","Visual Arts syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-83,"NSC Science","Science syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-84,"NSC Biology","Biology syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-85,"NSC Chemistry","Chemistry syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-86,"NSC Physics","Physics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-87,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-88,"NSC Religious Education","Religious Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-89,"NSC Physical Education","Physical Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-90,"NSC Music","Music syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-91,"NSC Drama","Drama syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-92,"NSC Dance","Dance syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-93,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-94,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-95,"NSC Business Basics","Business Basics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-96,"NSC French","French syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-97,"NSC Spanish","Spanish syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-98,"NSC Junior Achievement Company of Entrepreneurs (JACE)","Grade 9 Junior Achievement Company of Entrepreneurs (JACE) based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",270,365
-121,"CSEC English A - Grade 10","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-346,"CSEC English A - Grade 11","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
-354,"CSEC Mathematics  - Grade 10","CSEC Mathematics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",270,365
+37,"CSEC French","CSEC French syllabus based on the Caribbean Secondary Education Certificate (CSEC)",278,355
+38,"CSEC Visual Arts","CSEC Visual Arts syllabus based on the Caribbean Secondary Education Certificate (CSEC)",286,355
+39,"NSC Mathematics","Mathematics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",290,351
+40,"NSC Language Arts","Language Arts syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",291,351
+41,"NSC Social Studies","Social Studies syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",293,351
+42,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",306,351
+43,"NSC Visual Arts","Visual Arts syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",294,351
+44,"NSC Science","Science syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",295,351
+45,"NSC Biology","Biology syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",296,351
+46,"NSC Chemistry","Chemistry syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",297,351
+47,"NSC Physics","Physics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",298,351
+48,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",299,351
+49,"NSC Religious Education","Religious Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",300,351
+50,"NSC Physical Education","Physical Education syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",301,351
+51,"NSC Music","Music syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",302,351
+52,"NSC Drama","Drama syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",303,348
+53,"NSC Dance","Dance syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",304,351
+54,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",305,351
+55,"NSC Business Basics","Business Basics syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",307,351
+56,"NSC Spanish","Spanish syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",308,352
+57,"NSC French","French syllabus for Grade 7 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",309,352
+58,"NSC Mathematics","Mathematics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",290,351
+59,"NSC Language Arts","Language Arts syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",291,352
+60,"NSC Social Studies","Social Studies syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",293,352
+61,"NSC Information Technology","Information Technology syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",289,351
+62,"NSC Visual Arts","Visual Arts syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",294,351
+63,"NSC Science","Science syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",295,352
+64,"NSC Biology","Biology syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",296,351
+65,"NSC Chemistry","Chemistry syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",297,351
+66,"NSC Physics","Physics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",298,351
+67,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",299,351
+68,"NSC Religious Education","Religious Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",300,351
+69,"NSC Physical Education","Physical Education syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",301,352
+70,"NSC Music","Music syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",302,351
+71,"NSC Drama","Drama syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",303,348
+72,"NSC Dance","Dance syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",304,351
+73,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",305,351
+74,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",306,351
+75,"NSC Business Basics","Business Basics syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",307,351
+76,"NSC Spanish","Spanish syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",309,353
+77,"NSC French","French syllabus for Grade 8 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",308,353
+78,"NSC Mathematics","Mathematics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",290,353
+79,"NSC Language Arts","Language Arts syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",291,353
+80,"NSC Social Studies","Social Studies syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",293,353
+81,"NSC Information Technology","Information Technology syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",289,353
+82,"NSC Visual Arts","Visual Arts syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",294,353
+83,"NSC Science","Science syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",295,353
+84,"NSC Biology","Biology syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",296,353
+85,"NSC Chemistry","Chemistry syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",297,353
+86,"NSC Physics","Physics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",298,353
+87,"NSC Health &amp; Family Life Education","Health &amp; Family Life Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",299,353
+88,"NSC Religious Education","Religious Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",300,353
+89,"NSC Physical Education","Physical Education syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",301,353
+90,"NSC Music","Music syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",302,353
+91,"NSC Drama","Drama syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",303,353
+92,"NSC Dance","Dance syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",304,353
+93,"NSC Family and Consumer Management","Family and Consumer Management syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",305,353
+94,"NSC Industrial Techniques","Industrial Techniques syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",306,353
+95,"NSC Business Basics","Business Basics syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",307,353
+96,"NSC French","French syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",308,352
+97,"NSC Spanish","Spanish syllabus for Grade 9 based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",309,352
+98,"NSC Junior Achievement Company of Entrepreneurs (JACE)","Grade 9 Junior Achievement Company of Entrepreneurs (JACE) based on the National Standard Curriculum (NSC) - Special Customised Learning (SPIII)",310,353
+121,"CSEC English A - Grade 10","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",277,354
+346,"CSEC English A - Grade 11","CSEC English A syllabus based on the Caribbean Secondary Education Certificate (CSEC)",277,355
+354,"CSEC Mathematics  - Grade 10","CSEC Mathematics syllabus based on the Caribbean Secondary Education Certificate (CSEC)",283,354
